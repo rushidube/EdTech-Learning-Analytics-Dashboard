@@ -1,0 +1,3 @@
+data/raw/studentVle.csv
+data/processed/student_vle_cleaned.csv
+data/processed/dropout_random_forest_model.pkl
