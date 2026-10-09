@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EdTech Learning Analytics — Student Dropout & Early Risk Analysis
 
 An end-to-end data analytics project analyzing student engagement, academic performance, demographics, course characteristics, and dropout patterns using the Open University Learning Analytics Dataset (OULAD).
@@ -17,3 +18,7 @@ This project analyzes student-level learning activity and academic data to:
 - Identify early engagement indicators associated with dropout
 - Build an interactive Power BI analytics dashboard
 - Develop an early-warning machine learning analysis using behavioral and academic features
+=======
+# EdTech-Learning-Analytics-Dashboard
+End-to-end student dropout analysis using Python, PostgreSQL, Power BI, and machine learning on the OULAD dataset. 
+>>>>>>> origin/main
